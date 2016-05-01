@@ -1,7 +1,7 @@
 # vim: tabstop=4
 # compiler and compiler flags
 CC=coffee
-CFLAGS=-bco javascript
+CFLAGS=-bc
 
 all: *.js
 
